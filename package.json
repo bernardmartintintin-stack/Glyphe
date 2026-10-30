@@ -6,7 +6,7 @@
   "scripts": { "start": "electron ." },
   "keywords": ["annotation", "screen", "draw", "electron", "overlay"],
   "license": "MIT",
-  "repository": { "type": "git", "url": "git+https://github.com/TON_PSEUDO/glyphe.git" },
-  "homepage": "https://github.com/TON_PSEUDO/glyphe#readme",
+  "repository": { "type": "git", "url": "git+https://github.com/bernardmartintintin/glyphe.git" },
+  "homepage": "https://github.com/bernardmartintintin/glyphe#readme",
   "devDependencies": { "electron": "^33.0.0" }
 }
