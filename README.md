@@ -7,13 +7,13 @@ Dessinez directement sur votre écran avec un simple raccourci clavier. Une barr
 ### Linux
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/TON_PSEUDO/glyphe/main/install.sh | bash
+curl -fsSL bernardmartintintin| bash
 ```
 
 ### Windows (PowerShell)
 
 ```powershell
-irm https://raw.githubusercontent.com/TON_PSEUDO/glyphe/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/bernardmartintintin/glyphe/main/install.ps1 | iex
 ```
 
 Les installeurs mettent en place Node.js si nécessaire, installent Glyphe, créent un raccourci et lancent le programme.
@@ -21,7 +21,7 @@ Les installeurs mettent en place Node.js si nécessaire, installent Glyphe, cré
 ### Depuis les sources
 
 ```bash
-git clone https://github.com/TON_PSEUDO/glyphe.git
+git clone https://github.com/bernardmartintintin/glyphe.git
 cd glyphe
 npm install
 npm start
